@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetUrl", "GetUrl\GetUrl.csproj", "{DE44DCE4-2FAF-4AE9-B613-BE84358C7A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCubeFormula", "GetCubeFormula\GetCubeFormula.csproj", "{513BE9B3-E2E6-49B8-BBAE-A5AA2E9C81AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE44DCE4-2FAF-4AE9-B613-BE84358C7A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE44DCE4-2FAF-4AE9-B613-BE84358C7A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE44DCE4-2FAF-4AE9-B613-BE84358C7A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE44DCE4-2FAF-4AE9-B613-BE84358C7A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513BE9B3-E2E6-49B8-BBAE-A5AA2E9C81AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513BE9B3-E2E6-49B8-BBAE-A5AA2E9C81AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513BE9B3-E2E6-49B8-BBAE-A5AA2E9C81AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513BE9B3-E2E6-49B8-BBAE-A5AA2E9C81AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

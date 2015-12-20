@@ -1,0 +1,1 @@
+E:\学习\C#\C#实例\GetUrl\GetUrl\bin\Debug\GetUrl.exe.config

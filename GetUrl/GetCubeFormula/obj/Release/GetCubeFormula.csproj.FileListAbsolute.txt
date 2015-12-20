@@ -1,0 +1,10 @@
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\obj\Release\GetCubeFormula.Form1.resources
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\obj\Release\GetCubeFormula.Properties.Resources.resources
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\obj\Release\GetCubeFormula.csproj.GenerateResource.Cache
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\bin\Release\GetCubeFormula.exe.config
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\bin\Release\GetCubeFormula.exe
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\bin\Release\GetCubeFormula.pdb
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\obj\Release\GetCubeFormula.exe
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\obj\Release\GetCubeFormula.pdb
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\obj\Release\GetCubeFormula.csprojResolveAssemblyReference.cache
+E:\学习\C#\C#实例\GetUrl\GetCubeFormula\bin\Release\HtmlAgilityPack.dll
